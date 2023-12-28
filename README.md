@@ -52,32 +52,9 @@ Udemy Dataset: [Link to the Udemy Dataset]
 
 Description: [Brief description of the dataset, its attributes, and its relevance to the project]
 
-### Data Acquisition:
+### Data Preprocessing and EDA:
 
-Data for this project was acquired from the Udemy Dataset available at the provided link.
-
-### Data Preprocessing:
-
-Preprocessing steps involved in cleaning and organizing the data are detailed in the 'data_preprocessing.ipynb' notebook.
-
-## Code Structure
-
-├── data
-│   ├── data1.csv
-│   ├── data2.csv
-│   ├── cleanedData
-│   │   ├── cleaneddata1.csv
-|   |   └── cleaneddata2.csv
-├── data_acquisition.py
-├── data_preprocessing.ipynb
-├── data_analysis.ipynb
-├── data_modelling.ipynb
-├── Img
-│   ├── img1.png
-│   ├── Headerheader.jpg
-├── LICENSE
-├── README.md
-└── .gitignore
+Preprocessing steps involved in cleaning and organizing the data are detailed in the 'EDA on UdemyDataset.ipynb' notebook.
 
 ## Results and Evaluation
 
