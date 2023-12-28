@@ -48,9 +48,9 @@ seaborn>=0.9.1
 
 ### Source Data:
 
-Udemy Dataset: [Link to the Udemy Dataset]
+Udemy Dataset: [Link to the Dataset](https://github.com/parthshah28/Course_Recommendation_System/blob/main/udemy_course_data.csv)
 
-Description: [Brief description of the dataset, its attributes, and its relevance to the project]
+Description: This dataset encapsulates a comprehensive overview of Udemy courses, encompassing essential attributes such as course identifiers, titles, URLs, payment status, pricing information, subscriber counts, review statistics, lecture counts, difficulty levels, content durations, and publication timestamps. Additionally, it includes details like subject categories, profit generated from paid courses, and the breakdown of publication dates. This rich dataset is a valuable resource for conducting exploratory analyses, identifying trends within the Udemy platform, and potentially informing the development of recommendation systems to enhance the user experience on online learning platforms.
 
 ### Data Preprocessing and EDA:
 
