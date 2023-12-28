@@ -58,7 +58,9 @@ Preprocessing steps involved in cleaning and organizing the data are detailed in
 
 ## Results and Evaluation
 
-The project results, including metrics and visualizations, are presented in the 'data_analysis.ipynb' notebook. Evaluation methodologies and model quality assessments are explained in detail.
+The project results, including metrics and visualizations, are presented in the 'EDA on UdemyDataset' notebook and 'dashboard.py' file. Evaluation methodologies and model quality assessments are explained in detail. 
+
+![image](https://github.com/parthshah28/Course_Recommendation_System/assets/68292572/ae6933ab-2125-4e4e-8c57-a3401c3ecd97)
 
 ## Future Work
 
